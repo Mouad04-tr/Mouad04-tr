@@ -1,4 +1,4 @@
-![Ma bannière]([https://media.giphy.com/media/abc1234567/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FsaqibRaheem&psig=AOvVaw3nx5B7auO1T70_mkKqEIpp&ust=1727470933422000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCkreXA4YgDFQAAAAAdAAAAABAJ))
+![Ma bannière](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FsaqibRaheem&psig=AOvVaw3nx5B7auO1T70_mkKqEIpp&ust=1727470933422000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCkreXA4YgDFQAAAAAdAAAAABAJ)
 <h1 align="center">Hi 👋, I'm Tarib mouad</h1>
 <h3 align="center">A passionate software engineering student from Morocco, I’m dedicated to exploring the world of technology and software development.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
