@@ -55,7 +55,6 @@ A passionate Software Engineering student from Morocco, focused on building scal
 ---
 
 ### 🚀 About Me
-- 🎓 Software Engineering student
+- 🎓 Software Engineer
 - 💻 Passionate about Full Stack Development
-- ⚙️ Experienced in Spring Boot, Angular, React, and Microservices
-- 🌍 Interested in remote opportunities in Europe & USA
+- ⚙️ Experienced in Spring Boot, Angular, Oracle, and Microservices | Docker & CI/CD pipeline
